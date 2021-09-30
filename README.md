@@ -4,6 +4,6 @@
 ---
 [![snarpeppo GitHub stats](https://github-readme-stats.vercel.app/api?username=snarpeppo&show_icons=true&theme=synthwave)](https://github.com/snarpeppo/github-readme-stats)
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snarpeppo&repo=snarpeppo/Content_manager_better)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snarpeppo&repo=Content_manager_better)](https://github.com/snarpeppo/github-readme-stats)
 
 
