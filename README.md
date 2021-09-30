@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://github.com/snarpeppo/snarpeppo/blob/main/cursed.gif?raw=true" alt="spooky"/>
 </p>
+show_icons=true&theme=radical
+
 
 ---
-[![snarpeppo GitHub stats](https://github-readme-stats.vercel.app/api?username=snarpeppo)](https://github.com/snarpeppo/github-readme-stats)
+[![snarpeppo GitHub stats](https://github-readme-stats.vercel.app/api?username=snarpeppo&show_icons=true&theme=tokyonight)](https://github.com/snarpeppo/github-readme-stats)
 
