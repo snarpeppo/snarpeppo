@@ -1,5 +1,6 @@
 <p align="center">
-  ![alt text](https://github.com/snarpeppo/snarpeppo/blob/main/cursed.gif?raw=true)
+    <img src="https://github.com/snarpeppo/snarpeppo/blob/main/cursed.gif?raw=true" alt="Sublime's custom image"/>
+  ![alt text]()
 </p>
 
 ---
