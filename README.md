@@ -5,5 +5,5 @@ show_icons=true&theme=radical
 
 
 ---
-[![snarpeppo GitHub stats](https://github-readme-stats.vercel.app/api?username=snarpeppo&show_icons=true&theme=tokyonight)](https://github.com/snarpeppo/github-readme-stats)
+[![snarpeppo GitHub stats](https://github-readme-stats.vercel.app/api?username=snarpeppo&show_icons=true&theme=merko)](https://github.com/snarpeppo/github-readme-stats)
 
